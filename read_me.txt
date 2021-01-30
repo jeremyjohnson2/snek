@@ -1,1 +1,4 @@
-A version of Snake
+A version of Snake by Jeremy Johnson
+
+*Work-in-progress*
+
